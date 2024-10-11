@@ -2,4 +2,6 @@ pandas
 numpy
 matplotlib
 transformers
-scikit 
+scikit-learn
+tqdm
+accelerate
